@@ -42,4 +42,6 @@ Using your results from TASK 2, print out the number of spare places for each su
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-Let me know if there are any issues in the issues tab. Feel free to commit.
+The code has been separated into 3 sections using docstrings, each corresponding to a task outlined by the pre-release material. The comments in the code further divide it into the outlined sub-tasks.
+
+Let me know if there are any issues in the relevant tab on the repo main page. Feel free to make commits if I'm unable to reply at that point of time.
