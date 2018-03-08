@@ -10,9 +10,13 @@ In preparation for the examination candidates should attempt the following pract
 Students in a school are allowed to choose extra subjects each year. Students provide the school administrator with their names and their subject choices. Places in subject groups are allocated on a `first come, first served' basis. There are two classes of 30 students and they can each choose two extra subjects from:
 
 • Physics
-• Chemistry 
+
+• Chemistry
+
 • History
+
 • Geography
+
 • Computer Science 
 
 The maximum group size for each subject choice is 20 students and the minimum group size is 10 students. If more than 20 students choose a subject then that subject can be split into two groups. Each subject can have no more than two groups. If less than 10 students choose a subject then it is not available that year. A program is required to show a summary of the number of students who have chosen each subject, identify subject group sizes, produce subject group lists and identify problems. 
@@ -20,8 +24,11 @@ The maximum group size for each subject choice is 20 students and the minimum gr
 Write and test a program or programs for the school administrator.
 
 • Your program or programs must include appropriate prompts for the entry of data.
+
 • Error messages and other output need to be set out clearly and understandably.
-• All variables, constants and other identifiers must have meaningful names. 
+
+• All variables, constants and other identifiers must have meaningful names.
+
 You will need to complete these three tasks. Each task must be fully tested.
 
 TASK 1 — Data entry and number of students who have chosen each subject.
