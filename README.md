@@ -1,8 +1,7 @@
-# IGCSE-Computer-Science-Feb-March-2018-Practicals-Program-Solution
-This is a python program built according to the specifications of the pre-release material provided by CIE for the IGCSE Computer Science Feb/March 2018 Practical paper.
+# IGCSE Computer Science Feb/Mar 2018 Practicals Solution in Python 3
+This is a python program I built according to the specifications of the pre-release material provided by CIE for the IGCSE Computer Science Feb/March 2018 Practical paper.
 
-The description of the problem in the pre-release material (all credits to CIE) is as follows:
-
+# The contents of the pre-release material
 --------------------------------------------------------------------------------------------------------------------------------
 
 In preparation for the examination candidates should attempt the following practical tasks by writing and testing a program or programs.
@@ -42,6 +41,9 @@ Using your results from TASK 2, print out the number of spare places for each su
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+# Guide to understanding the program
 The code has been separated into 3 sections using docstrings, each corresponding to a task outlined by the pre-release material. The comments in the code further divide it into the outlined sub-tasks.
+
+The only potentially confusing part (to me currently) is usage of the nested WHILE loop in task 1. I have added it there to deal with the possibility of people entering wrong data as their subject choices. More error checks could have been done...but there's 18 hours left till the exam so I don't have time :P. Maybe I'll update this later, who knows?
 
 Let me know if there are any issues in the relevant tab on the repo main page. Feel free to make commits if I'm unable to reply at that point of time.
