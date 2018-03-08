@@ -13,7 +13,7 @@ cs_students = []
 
 num_students = 60
 
-subject_list = ['phy', 'chem', 'hist', 'geo', 'cs']
+subject_list = ['physics', 'chemistry', 'history', 'geography', 'computer science']
 
 for num in range(num_students):
 
