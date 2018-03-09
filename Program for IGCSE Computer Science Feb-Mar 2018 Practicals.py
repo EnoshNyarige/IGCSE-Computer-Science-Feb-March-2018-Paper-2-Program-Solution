@@ -231,7 +231,7 @@ free_spaces = spare_places_phy + spare_places_chem + spare_places_hist + spare_p
 unallocated_choices = len(one_subject_students) + len(zero_subject_students)*2
 
 # Showing whether the number of spare places available is enough to cover the unallocated choices
-if free_spaces > unallocated_choices:
+if free_spaces >= unallocated_choices:
 	print("Yes, the number of spare places  are enough to cover the unallocated choices")
 else:
 	print("No, the number of spare places are not enough to cover the unallocated choices")
