@@ -59,7 +59,7 @@ TASK 2 - Output subject group lists and identify problems
 
 group_upperbound = 20
 subject_upper_bound = group_upperbound * 2
-lower_bound = 1
+lower_bound = 10
 
 phy_group_1 = []
 phy_group_2 = []
