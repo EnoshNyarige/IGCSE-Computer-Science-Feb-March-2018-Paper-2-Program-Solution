@@ -1,7 +1,7 @@
 # IGCSE Computer Science Feb/Mar 2018 Practicals Solution in Python 3
 This is a python program I built according to the specifications of the pre-release material provided by CIE for the IGCSE Computer Science Feb/March 2018 Practical paper.
 
-# The problem given in the pre-release material
+# The problem
 
 In preparation for the examination candidates should attempt the following practical tasks by writing and testing a program or programs.
 
