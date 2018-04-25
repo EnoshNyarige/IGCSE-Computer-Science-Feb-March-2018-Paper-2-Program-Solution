@@ -2,7 +2,6 @@
 This is a python program I built according to the specifications of the pre-release material provided by CIE for the IGCSE Computer Science Feb/March 2018 Practical paper.
 
 # The problem given in the pre-release material
-----------------------------------------------------------------------------
 
 In preparation for the examination candidates should attempt the following practical tasks by writing and testing a program or programs.
 
@@ -38,8 +37,6 @@ Using your results from TASK 1, allocate students to subject groups. Print out l
 
 TASK 3 — Identify spare places in subject groups. 
 Using your results from TASK 2, print out the number of spare places for each subject. Any group that has fewer than 20 students has spare places. Calculate the total number of spare places and the total number of unallocated student choices. Show whether the number of spare places available is enough to cover the unallocated choices.
-
---------------------------------------------------------------------------------------------------------------------------------
 
 # Guide to understanding the program
 The code has been separated into 3 sections using docstrings, each corresponding to a task outlined by the pre-release material. The comments in the code further divide it into the outlined sub-tasks.
